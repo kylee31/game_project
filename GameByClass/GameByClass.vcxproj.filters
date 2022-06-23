@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\class">
+      <UniqueIdentifier>{75ae8137-71f3-451f-984b-208f1ae2a543}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\item">
+      <UniqueIdentifier>{6ac81ef7-197d-4e61-9a07-62a2a0bc0d9f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\character">
+      <UniqueIdentifier>{dfbad635-937c-4deb-ac94-d45e8838b720}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\time,distance,warn">
+      <UniqueIdentifier>{37a4398a-9aa1-4ab0-82a1-db26d9f1e5da}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main_GameByClass.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameClassEnding.cpp">
+      <Filter>Source Files\class</Filter>
+    </ClCompile>
+    <ClCompile Include="GameClassEnding2.cpp">
+      <Filter>Source Files\class</Filter>
+    </ClCompile>
+    <ClCompile Include="GameClassEnding3.cpp">
+      <Filter>Source Files\class</Filter>
+    </ClCompile>
+    <ClCompile Include="GameClassIntro.cpp">
+      <Filter>Source Files\class</Filter>
+    </ClCompile>
+    <ClCompile Include="GameClassRule.cpp">
+      <Filter>Source Files\class</Filter>
+    </ClCompile>
+    <ClCompile Include="GameClassStage1.cpp">
+      <Filter>Source Files\class</Filter>
+    </ClCompile>
+    <ClCompile Include="GameClassStage2.cpp">
+      <Filter>Source Files\class</Filter>
+    </ClCompile>
+    <ClCompile Include="item.cpp">
+      <Filter>Source Files\item</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemManager.cpp">
+      <Filter>Source Files\item</Filter>
+    </ClCompile>
+    <ClCompile Include="MyCharacter.cpp">
+      <Filter>Source Files\character</Filter>
+    </ClCompile>
+    <ClCompile Include="Teacher.cpp">
+      <Filter>Source Files\character</Filter>
+    </ClCompile>
+    <ClCompile Include="GameDistance.cpp">
+      <Filter>Source Files\time,distance,warn</Filter>
+    </ClCompile>
+    <ClCompile Include="GameTime.cpp">
+      <Filter>Source Files\time,distance,warn</Filter>
+    </ClCompile>
+    <ClCompile Include="GameWarning.cpp">
+      <Filter>Source Files\time,distance,warn</Filter>
+    </ClCompile>
+    <ClCompile Include="GameClassHidden.cpp">
+      <Filter>Source Files\class</Filter>
+    </ClCompile>
+    <ClCompile Include="GameClassRule2.cpp">
+      <Filter>Source Files\class</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GameClassStage2.h">
+      <Filter>Source Files\class</Filter>
+    </ClInclude>
+    <ClInclude Include="GameClassEnding.h">
+      <Filter>Source Files\class</Filter>
+    </ClInclude>
+    <ClInclude Include="GameClassEnding2.h">
+      <Filter>Source Files\class</Filter>
+    </ClInclude>
+    <ClInclude Include="GameClassEnding3.h">
+      <Filter>Source Files\class</Filter>
+    </ClInclude>
+    <ClInclude Include="GameClassIntro.h">
+      <Filter>Source Files\class</Filter>
+    </ClInclude>
+    <ClInclude Include="GameClassPhase.h">
+      <Filter>Source Files\class</Filter>
+    </ClInclude>
+    <ClInclude Include="GameClassRule.h">
+      <Filter>Source Files\class</Filter>
+    </ClInclude>
+    <ClInclude Include="GameClassStage1.h">
+      <Filter>Source Files\class</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Source Files\item</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemManager.h">
+      <Filter>Source Files\item</Filter>
+    </ClInclude>
+    <ClInclude Include="MyCharacter.h">
+      <Filter>Source Files\character</Filter>
+    </ClInclude>
+    <ClInclude Include="Teacher.h">
+      <Filter>Source Files\character</Filter>
+    </ClInclude>
+    <ClInclude Include="GameDistance.h">
+      <Filter>Source Files\time,distance,warn</Filter>
+    </ClInclude>
+    <ClInclude Include="GameTime.h">
+      <Filter>Source Files\time,distance,warn</Filter>
+    </ClInclude>
+    <ClInclude Include="GameWarning.h">
+      <Filter>Source Files\time,distance,warn</Filter>
+    </ClInclude>
+    <ClInclude Include="GameClassHidden.h">
+      <Filter>Source Files\class</Filter>
+    </ClInclude>
+    <ClInclude Include="GameClassRule2.h">
+      <Filter>Source Files\class</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
