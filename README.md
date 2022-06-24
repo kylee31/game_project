@@ -1,4 +1,4 @@
-# 🏃‍♂️game_project
+# 🏃‍♂️ game_project
 c++을 이용하여 게임을 제작한 팀 프로젝트 (2019)
 <br><br>
 
